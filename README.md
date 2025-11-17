@@ -1,16 +1,129 @@
-## Hi there 👋
+# 👋 Hello, I’m Udaykaran Singh
 
-<!--
-**UDKARAN5684/UDKARAN5684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech student in Computer Science & Engineering, specializing in **Data Science**.  
+I’m passionate about **AI, Machine Learning, Deep Learning, NLP**, and building intelligent systems that solve real-world problems with creativity and precision.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+
+- **Cyberbullying Detection using NLP**  
+  Building an intelligent text-classification system to identify harmful or abusive content.
+
+- **RAG Chatbot**  
+  Developing Retrieval-Augmented Generation models for accurate, context-aware responses.
+
+- **Moodify App**  
+  Enhancing a mood-detection mobile app with machine learning–powered recommendations.
+
+- **Medical Query Assistant**  
+  Creating an NLP-based chatbot to respond to health-related queries.
+
+- **Gurmukhi HTR**  
+  Expanding my handwriting recognition system for Punjabi (Gurmukhi) using deep learning.
+
+---
+
+## 🛠️ Currently Learning
+
+- **RAG (Retrieval-Augmented Generation)**
+- **Deep Learning**
+- **NLP**
+- **LLMs**
+- **AWS**
+
+---
+
+## 🤝 Let’s Collaborate
+
+I love working on **open-source AI/ML projects**, chatbots, NLP systems, intelligent automation, and any idea that turns data into impact.  
+If you’re building something exciting — I'm in!
+
+---
+
+## 💬 Ask Me About
+
+- **Python**  
+- **Data Science**  
+- **Machine Learning & Deep Learning**  
+- **NLP**  
+- **RAG & LLMs**
+
+---
+
+## 📫 Contact Me
+
+📧 Email:  
+- karansinghuday.01@gmail.com  
+- udaykaransingh02@gmail.com  
+
+🔗 LinkedIn:  
+www.linkedin.com/in/udaykaran-singh-085284327  
+
+---
+
+## 🎉 Fun Fact
+
+**I have more GitHub commits at night than during the day, I treat AI experiments like mini-adventures, and I often end up fixing bugs I wasn’t even looking for — all powered by endless cups of coffee. ☕😄**
+
+---
+
+## 🧰 Tech Stack
+
+### **Languages**
+- Python  
+- R  
+- Dart  
+- C/C++
+
+### **Frameworks & Libraries**
+- TensorFlow  
+- PyTorch  
+- scikit-learn  
+- LangChain  
+- OpenCV  
+- NumPy  
+- Pandas  
+- Plotly  
+- Seaborn  
+- Matplotlib  
+
+### **Databases**
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+
+### **Tools & Platforms**
+- AWS  
+- Git  
+- Linux  
+- Jupyter Notebook  
+
+### **Office & Productivity**
+- Microsoft Excel  
+- Microsoft PowerPoint  
+- Microsoft Word  
+
+---
+
+## 🏅 Certifications
+
+- AWS Certified Solutions Architect – Associate  
+- Certified Network Defender (CND), EC-Council  
+- Python Programming Certificate (IIT Madras)  
+- Deep Learning Specialization – deeplearning.ai  
+- NPTEL Data Science – IIT Bombay  
+
+---
+
+## 📚 Projects
+
+- **Cyberbullying Detection (NLP):** Intelligent model for harmful content detection.  
+- **RAG-Powered Chatbot:** Retrieval-augmented generation chatbot for accurate responses.  
+- **Moodify App:** ML-powered mood detection + music recommendation.  
+- **Medical Query Assistant:** NLP chatbot for medical-related queries.  
+- **Gurmukhi HTR:** CRNN-based handwriting recognition system for Punjabi script.  
+
+---
+
+⭐ **Feel free to explore my repositories and connect — I’m always excited to work on ideas that make an impact!**
