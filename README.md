@@ -39,10 +39,4 @@ karansinghuday.01@gmail.com
 🔗 LinkedIn:  
 www.linkedin.com/in/udaykaran-singh-085284327  
 
-
-## 🎉 Fun Fact
-
-**I have more GitHub commits at night than during the day, I treat AI experiments like mini-adventures, and I often end up fixing bugs I wasn’t even looking for — all powered by endless cups of coffee. ☕😄**
-
-
 ⭐ **Feel free to explore my repositories and connect — I’m always excited to work on ideas that make an impact!**
