@@ -126,6 +126,36 @@ In progress: a RAG Chatbot using LLMs and retrieval-augmented generation.
 
 ---
 
+## Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UDKARAN5684&theme=github-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/UDKARAN5684/UDKARAN5684/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
+</div>
+
+---
+
 ## Metrics
 
 <div align="center">
