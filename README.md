@@ -92,12 +92,13 @@
 
 <div align="center">
 
-![Udaykaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UDKARAN5684&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+![Udaykaran's GitHub Stats](https://github-readme-stats-woad-nu-66.vercel.app/api?username=UDKARAN5684&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=UDKARAN5684&theme=github-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UDKARAN5684&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-woad-nu-66.vercel.app/api/top-langs/?username=UDKARAN5684&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
+
 
 ---
 
